@@ -1,0 +1,10 @@
+etapas de un proceso de desarrollo
+
+modelos agiles
+analisis
+diseño
+coding 
+pruebas
+despliegue/implementacion 
+mantenimiento 
+despliegue
